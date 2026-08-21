@@ -158,6 +158,3 @@ skills-lock.json
 # Storybook config is real source — carve it out of the dotfile ignore above.
 !web/storybook/.storybook/
 !web/storybook/.storybook/**
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
